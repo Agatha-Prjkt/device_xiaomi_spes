@@ -25,4 +25,11 @@
     <!-- Whether to show Smooth Display feature in Settings Options -->
     <bool name="config_show_smooth_display">true</bool>
 
+    <!-- Smart Charging -->
+    <bool name="config_supportSmartCharging">true</bool>
+
+    <!-- PEX Maintainer -->
+    <string name="pex_maintainer_name" translatable="false">Agatha</string>
+    <string name="pex_maintainer_group" translatable="false">https://t.me/agathaprjkt</string>
+
 </resources>
